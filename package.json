@@ -1,0 +1,35 @@
+{
+  "name": "boncoinmessenger",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "bootstrap": "4.4.1",
+    "react": "16.12.0",
+    "react-bootstrap": "1.0.0-beta.17",
+    "react-dom": "16.12.0",
+    "react-icons": "3.9.0",
+    "react-overlay": "0.1.7",
+    "react-redux": "7.2.0",
+    "react-scripts": "3.0.1",
+    "react-tabulator": "0.10.3",
+    "redux": "4.0.5",
+    "redux-thunk": "2.3.0"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
